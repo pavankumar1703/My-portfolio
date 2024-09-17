@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Kaiser Permanente",
+    "startDate": "Aug 2022",
+    "endDate": "Present",
+    "experiences": ["Developed a full-stack healthcare application using React.js, Spring Boot, and Azure, integrating third-party APIs, optimizing database performance, ensuring HIPAA compliance, and automating CI/CD pipelines for efficient, secure, and scalable patient management."],
+    "imageSrc": "history/cisco.jpg"
+  },  
+    {
+      "role": "Full Stack Developer",
+      "organisation": "Accenture",
+      "startDate": "May 2020",
+      "endDate": "Jun 2022",
+      "experiences": ["Developed a secure, high-performance digital banking platform using microservices, Angular, and AWS, enhancing system modularity, improving load times, implementing real-time transaction processing, and increasing user engagement and revenue."],
+      "imageSrc": "history/brane.jpg"
+    }
+  ]

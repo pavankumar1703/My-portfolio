@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Medium.com Clone",
+    "imageSrc": "projects/medium.PNG",
+    "description": "Built a scalable full-stack application inspired by Medium.com",
+    "skills": ["React.js", "Node.js", "Express.js","JavaScript", "MongoDB", "Redux", "Cloudinary"],
+    "demo": "https://www.netlify.com",
+    "source": "https://github.com/pavankumar1703/Medium.com_Clone"
+  },
+  {
+    "title": "Online Discussion Forum",
+    "imageSrc": "projects/discussion.png",
+    "description": "Developed an agile discussion platform for enhanced user engagement.",
+    "skills": ["React.js", "JavaScript", "Node.js", "MongoDB", "CSS"],
+    "demo": "https://www.netlify.com",
+    "source": "https://github.com/pavankumar1703/Discussion_Form"
+  },
+  {
+    "title": "Real-Time Voting App",
+    "imageSrc": "projects/vote.png",
+    "description": "Created a dynamic real-time voting platform to boost engagement and accessibility.",
+    "skills": [ "Node.js", "React.js", "Redux", "Webpack", "babel", "HTML", "CSS", "Git"],
+    "demo": "https://www.netlify.com",
+    "source": "https://github.com/pavankumar1703/voting-sever.git"
+  },
+  {
+    "title": "Add to Cart",
+    "imageSrc": "projects/Add2Cart.png",
+    "description": "Add to Cart is a collaborative web app for easy shopping list creation.",
+    "skills": ["HTML", "CSS", "JavaScript", "Firebase"],
+    "demo": "https://virtual-cart.netlify.app/",
+    "source": "https://github.com/pavankumar1703/Add2Cart.git"
+  },
+  {
+    "title": "Chrome Extension",
+    "imageSrc": "projects/chrome.png",
+    "description": "It's a Chrome extension that streamlines the process of tracking and managing leads during web browsing.",
+    "skills": ["HTML", "CSS", "JavaScript", "JSON"],
+    "demo": "https://chrome-extention-leadtrack.netlify.app/",
+    "source": "https://github.com/pavankumar1703/Chrome_Extension"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.png",
+    "description": "Introducing our Weather App - your gateway to personalized, real-time weather updates.",
+    "skills": ["HTML", "CSS", "JavaScript", "JSON", "VSCode"],
+    "demo": "https://weather-app-for-all.netlify.app",
+    "source": "https://github.com/pavankumar1703/Weather-App.git"
+  }
+]
